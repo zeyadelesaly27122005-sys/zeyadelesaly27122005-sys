@@ -28,11 +28,17 @@ I’m **Zeyad ELESALY** 🚀
 
 🔗 &nbsp;**Connect with me**  
 <p align="left">
-<a href="https://linkedin.com/in/zeyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://twitter.com/zeyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://instagram.com/zeyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://dribbble.com/zeyad" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111402.png" alt="dribbble" height="30" width="40" /></a>
-<a href="https://behance.net/zeyad" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111501.png" alt="behance" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zeyad" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin"/></a>
+<a href="https://x.com/ZElesaly" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter"/></a>
+<a href="https://www.instagram.com/zeyad_elesaly/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram"/></a>
+<a href="https://www.facebook.com/zeyad.mo7amed11" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="40" alt="facebook"/></a>
+<a href="https://t.me/Zeyad2712005" target="_blank"><img src="https://skillicons.dev/icons?i=telegram" height="40" alt="telegram"/></a>
+<a href="https://wa.me/201018446933" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height="40" alt="whatsapp"/></a>
+<a href="https://dribbble.com/zeyad" target="_blank"><img src="https://skillicons.dev/icons?i=dribbble" height="40" alt="dribbble"/></a>
+<a href="https://www.behance.net/zeyadelesaly123" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111501.png" height="40" alt="behance"/></a>
+<a href="https://youtube.com/@zeyad" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" height="40" alt="youtube"/></a>
+<a href="https://github.com/ELESALY" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" alt="github"/></a>
+<a href="mailto:zeyadelesaly27122005@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail"/></a>
 </p>
 
 ---
@@ -45,6 +51,7 @@ I’m also the **owner of 🏭 Dar Zeyad Printing Press (Sharqia, Egypt)**,
 where I manage large-scale printing, branding, and publishing projects.  
 
 🌍 **Multilingual:** Arabic 🇪🇬 | English 🇬🇧 | French 🇫🇷  
+💻 **Skilled in C++ Programming**  
 
 During my career I’ve worked on:  
 - AI-powered automation & smart applications  
@@ -62,37 +69,4 @@ I believe that the future is **where design meets intelligence** ✨
   <p align="left">
   <!-- Programming -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  
-  <!-- Design -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="illustrator" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-  
-  <!-- Printing -->
-  <img src="https://cdn-icons-png.flaticon.com/512/2920/2920086.png" alt="printing-press" width="40" height="40"/>
-  
-  <!-- Spoken Languages -->
-  <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" alt="English" width="40" height="40"/> <!-- UK Flag -->
-  <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" alt="French" width="40" height="40"/> <!-- France Flag -->
-  </p>
-</details>
-
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ELESALY&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELESALY&layout=compact&theme=radical" alt="Top Languages" height="180"/>
-</p>
-
----
-
-### 🔥 GitHub Streaks  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ELESALY&theme=radical" alt="GitHub Streak"/>
-</p>
+  <img src="https://raw.githubusercontent.com/
